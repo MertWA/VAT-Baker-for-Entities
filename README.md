@@ -1,5 +1,7 @@
 # 📦 VAT Baker for Unity Entities (DOTS)
 
+[![Asset Store Link](https://img.shields.io/badge/🔥_NEWEST_VERSION-Available_on_Asset_Store-green)](SOON)
+
 ![Unity 6](https://img.shields.io/badge/Unity-6-000000?style=flat&logo=unity&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -28,7 +30,7 @@ Fully compatible with **Unity 6** and the latest **DOTS/ECS** workflow, this too
 
 1. Download the repository or clone it.
 2. Copy the `MWA_VATBaker.cs` script into an `Editor` folder in your Unity project (e.g., `Assets/Scripts/Editor/`).
-3. Copy the `Vat_Shader.shadergraph` into your project.
+3. Copy the `MWA_Vat_Shader.shadergraph` into your project.
 
 ---
 
