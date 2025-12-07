@@ -1,6 +1,6 @@
 # 📦 VAT Baker for Unity Entities (DOTS)
 
-[![Asset Store Link](https://img.shields.io/badge/🔥_NEWEST_VERSION-Available_on_Asset_Store-green)](SOON)
+[![Asset Store Link](https://img.shields.io/badge/🔥_NEWEST_VERSION-SOON! Available_on_Asset_Store-green)](https://github.com/MertWA/VAT-Baker-for-Entities)
 
 ![Unity 6](https://img.shields.io/badge/Unity-6-000000?style=flat&logo=unity&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
