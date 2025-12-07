@@ -16,6 +16,14 @@ Fully compatible with **Unity 6** and the latest **DOTS/ECS** workflow, this too
 
 ---
 
+## 🛠️ Requirements
+* **Unity Version:** Unity 6 (Recommended) or Unity 2022.3 LTS+.
+* **Render Pipeline:** Universal Render Pipeline (URP).
+* **Packages:** Entities (1.0+), Universal RP.
+* **Input:** A `GameObject` with a **SkinnedMeshRenderer** and an **AnimationClip**.
+  
+---
+
 ## 🛠️ Installation
 
 1. Download the repository or clone it.
