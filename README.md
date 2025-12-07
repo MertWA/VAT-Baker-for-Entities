@@ -1,9 +1,12 @@
 # 📦 VAT Baker for Unity Entities (DOTS)
 
+![Unity 6](https://img.shields.io/badge/Unity-6-000000?style=flat&logo=unity&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 ## ✨ Overview
 **MWA VAT Baker** is a lightweight and efficient tool designed to bake **Skinned Mesh Renderer** animations into **Vertex Animation Textures (VAT)**.
 
-This system allows you to render thousands of animated units with high performance using **Unity DOTS (Data-Oriented Technology Stack)** and **ECS (Entity Component System)**, bypassing the performance overhead of the traditional Animator component.
+Fully compatible with **Unity 6** and the latest **DOTS/ECS** workflow, this tool allows you to bypass the performance overhead of the traditional Animator component.
 
 ### Key Features
 * **One-Click Baking:** Simple Editor Window to generate required assets.
